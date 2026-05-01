@@ -21,7 +21,7 @@ This project aims to design, implement, and evaluate algorithms for a variant of
   Minimize the number of bins used while maximizing the number of items successfully packed before expiry.
 
 - **Secondary Objective:**  
-  Minimize the waste rate, defined as the fraction of items that expire before placement.
+  Minimize the waste rate.
 
 ---
 
